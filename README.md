@@ -1,8 +1,6 @@
 # InstagramBrowser
 
 [![Language](https://img.shields.io/badge/language-swift%205.0-orange.svg)]()
-[![Platform](https://img.shields.io/badge/platform-%3C%3D%20iOS%207.0-lightgrey.svg?style=flat)]()
-[![Xcode](https://img.shields.io/badge/Xcode-7.3-blue.svg?style=flat)]()
 
 
 ## Overview
@@ -26,4 +24,4 @@ This is simple instagram browser using instagram API
 
 ## Screen Video
 
-[![video](thumb_video.jpg)](https://www.dropbox.com/s/bv6117o7far1bz7/InstagramBrowser.mp4?dl=0)
+[![video](screenshot1.png)](https://www.dropbox.com/s/bv6117o7far1bz7/InstagramBrowser.mp4?dl=0)
